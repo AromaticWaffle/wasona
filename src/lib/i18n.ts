@@ -4,6 +4,7 @@ import path from "path";
 export const langNames: Record<string, string> = {
   en: "English",
   cs: "čeština",
+  da: "dansk",
   de: "Deutsch",
   es: "español",
   fr: "français",
@@ -11,6 +12,7 @@ export const langNames: Record<string, string> = {
   it: "italiano",
   pl: "polski",
   pt: "português",
+  tl: "Tagalog",
   ru: "русский",
   uk: "українська",
   ar: "العربية",
