@@ -12,7 +12,7 @@ description: "Help us by translating the course to your language!"
 * [Indonesian](https://github.com/wasona/wasona/pull/12) by jan Asipa
 * [Persian](https://github.com/wasona/wasona/pull/36) by jan Ali
 * [Catalan](https://github.com/wasona/wasona/pull/43) by jan Suwapeto
-* [Chinese](https://github.com/wasona/wasona/pull/51) by jan Nanpa
+* [Chinese](https://github.com/wasona/wasona/pull/51) by ijo Sani, jan lili Enta, soweli suli Alu
 * [Esperanto](https://github.com/wasona/wasona/pull/55) by jan Lekasi
 * [Dutch](https://github.com/wasona/wasona/pull/57) by akesi Wilin
 * [Turkish](https://github.com/wasona/wasona/pull/63) by jan Erd, jan Jasi, nat
